@@ -2,7 +2,7 @@
 
 # Backend Java Developer
 
-_Reto Tech - Qsysten_
+_Reto Tech - Qsysten lo puede ejecutar de manera local_
 
 ## Microservicio desarrollado en Java Spring boot
 
